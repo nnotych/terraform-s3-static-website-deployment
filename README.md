@@ -1,5 +1,3 @@
-# terraform-s3-static-website-deployment
-
 # Project Description
 
 This project deploys a static website on AWS S3 using Terraform. Below is a brief description of each file and folder:
